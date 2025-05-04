@@ -5,6 +5,7 @@ import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.preprocessing import MinMaxScaler
 import numpy as np
+
 app = FastAPI()
 # Carregar dados
 data = [
