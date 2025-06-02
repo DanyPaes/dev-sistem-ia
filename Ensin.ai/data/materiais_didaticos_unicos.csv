@@ -1,0 +1,11 @@
+id_material,titulo,tipo,area,nivel,descricao,autor
+1,Introdução a Algoritmos,livro,Programação,Iniciante,Fundamentos de algoritmos e estruturas de dados,Thomas Cormen
+2,Aprendendo Python,livro,Programação,Iniciante,Guia completo para iniciantes em Python,Eric Matthes
+3,ML Avançado,livro,IA,Avançado,Técnicas avançadas de machine learning,Aurélien Géron
+4,Estatística Básica,livro,Estatística,Iniciante,Conceitos fundamentais de estatística,Mario Triola
+5,Deep Learning,vídeo,IA,Intermediário,Série sobre redes neurais profundas,Andrew Ng
+6,Gestão Ágil,artigo,Gestão,Intermediário,Metodologias ágeis para gerentes,Jeff Sutherland
+7,Segurança em Redes,livro,Segurança,Avançado,Protegendo infraestruturas de rede,William Stallings
+8,UX Moderno,artigo,UX,Intermediário,Princípios de design centrado no usuário,Don Norman
+9,Banco de Dados NoSQL,livro,BD,Intermediário,Bancos não relacionais modernos,Martin Fowler
+10,IoT Prático,vídeo,IoT,Iniciante,Projetos práticos de Internet das Coisas,Adafruit

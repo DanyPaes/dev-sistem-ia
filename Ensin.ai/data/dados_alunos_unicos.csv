@@ -1,0 +1,9 @@
+id_aluno,nome,curso,periodo,disciplinas_cursadas,areas_interesse
+1,João Silva,Engenharia de Software,5,"Algoritmos, Banco de Dados, IA","ML, Programação, Cloud"
+2,Maria Souza,Ciência de Dados,3,"Estatística, Python, ML","IA, Visualização, Big Data"
+3,Carlos Oliveira,Engenharia de Computação,7,"Redes, SO, Arquitetura","IoT, Segurança, Hardware"
+4,Ana Pereira,SI,4,"Gestão, Redes, BD","UX, PM, Analytics"
+5,Lucas Santos,Engenharia de Software,6,"BD, IA, Web","Mobile, DevOps, QA"
+6,Juliana Lima,Ciência de Dados,2,"Python, Estatística","NLP, Deep Learning"
+7,Pedro Costa,Engenharia de Computação,8,"Arquitetura, Compiladores","Robótica, Embedded"
+8,Mariana Rocha,SI,5,"UX, PM, BD","Marketing Digital, Analytics"
